@@ -1,0 +1,6 @@
+@lista6_HostAddress = http://localhost:5071
+
+GET {{lista6_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
